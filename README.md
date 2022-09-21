@@ -7,3 +7,7 @@ Abdullah Ansar Mohammed : This repo is a clone of [https://github.com/miguelgrin
 **Activity 2**
 
 ![](images/Activity2.png)
+
+**Activity 3**
+
+![](images/Activity3.png)
